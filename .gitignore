@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.playwright-mcp/
+.taste-skill/inspect/
+.impeccable/review/
+.impeccable/runtime/
+*.local
