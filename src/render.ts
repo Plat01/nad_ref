@@ -57,7 +57,7 @@ export function renderPage() {
     </section>
 
     <section class="trust" aria-labelledby="trust-title" data-scene="trust">
-      <h2 id="trust-title">Интересно пробовать.<br><span>Здорово получаться.</span></h2>
+      <h2 id="trust-title">Интересно пробовать.<br><span>Весело достигать.</span></h2>
       <div class="trust-mascot"><div class="mascot-wave-sprite" role="img" aria-label="Надеждик машет крылом"><span class="wave-body"></span><span class="wave-wing"></span></div></div>
       ${action('Найти занятие', 'data-scroll="#directions"', 'trust-action')}
     </section>
