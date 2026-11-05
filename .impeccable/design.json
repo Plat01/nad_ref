@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-05T22:23:43.019205+00:00",
+  "title": "Design System: Надеждик",
+  "extensions": {
+    "colorMeta": {
+      "blue": {
+        "role": "primary",
+        "displayName": "Фирменный голубой"
+      },
+      "orange": {
+        "role": "secondary",
+        "displayName": "Деятельный оранжевый"
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "Белый"
+      },
+      "soft": {
+        "role": "neutral",
+        "displayName": "Светлый голубой"
+      },
+      "pale": {
+        "role": "neutral",
+        "displayName": "Светлый оранжевый"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Афиша",
+        "purpose": "Прописные заголовки разделов."
+      },
+      "hero": {
+        "displayName": "Первый экран",
+        "purpose": "Три смещённые строки с декоративными буквами."
+      },
+      "headline": {
+        "displayName": "Заголовок",
+        "purpose": "Вводный текст и тематические карточки."
+      },
+      "body": {
+        "displayName": "Текст",
+        "purpose": "Описание продукта и направлений."
+      },
+      "label": {
+        "displayName": "Подпись",
+        "purpose": "Кнопки и управление."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "state-ease",
+        "value": "cubic-bezier(.22,1,.36,1)",
+        "purpose": "Кнопки, подписи и переходы панелей."
+      },
+      {
+        "name": "state-duration",
+        "value": "0.25s",
+        "purpose": "Базовый переход состояния кнопки."
+      },
+      {
+        "name": "deck-duration",
+        "value": "0.7s",
+        "purpose": "Перестроение настольного веера, power3.out."
+      },
+      {
+        "name": "scroll-scrub",
+        "value": "1.2",
+        "purpose": "Связь сцен с прокруткой через ScrollTrigger."
+      },
+      {
+        "name": "lenis-duration",
+        "value": "1.5",
+        "purpose": "Сглаживание колеса на точном указателе; отключено в спокойном режиме."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "narrow",
+        "value": "374px"
+      },
+      {
+        "name": "mobile",
+        "value": "768px"
+      },
+      {
+        "name": "tablet",
+        "value": "991px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1200px"
+      },
+      {
+        "name": "wide",
+        "value": "1800px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Белая кнопка",
+      "kind": "button",
+      "refersTo": "button-pill",
+      "description": "Основное действие на контрастном цветовом поле.",
+      "html": "<button class=\"ds-button-pill\">Оставить заявку</button>",
+      "css": ".ds-button-pill{font-family:var(--body,'IBM Plex Sans',sans-serif);background:var(--white);color:var(--blue);border:0;border-radius:40px;padding:14px 24px;font-size:14px;font-weight:600;cursor:pointer;transition:transform .25s cubic-bezier(.22,1,.36,1)}.ds-button-pill:hover{transform:translateY(-4px)}.ds-button-pill:focus-visible{outline:3px solid currentColor;outline-offset:5px;}.ds-button-pill:active{transform:scale(.97)}"
+    },
+    {
+      "name": "Голубая кнопка",
+      "kind": "button",
+      "refersTo": "button-pill-blue",
+      "description": "Основное действие на контрастном цветовом поле.",
+      "html": "<button class=\"ds-button-pill-blue\">Оставить заявку</button>",
+      "css": ".ds-button-pill-blue{font-family:var(--body,'IBM Plex Sans',sans-serif);background:var(--blue);color:var(--white);border:0;border-radius:40px;padding:14px 24px;font-size:14px;font-weight:600;cursor:pointer;transition:transform .25s cubic-bezier(.22,1,.36,1)}.ds-button-pill-blue:hover{transform:translateY(-4px)}.ds-button-pill-blue:focus-visible{outline:3px solid currentColor;outline-offset:5px;}.ds-button-pill-blue:active{transform:scale(.97)}"
+    },
+    {
+      "name": "Круглая кнопка",
+      "kind": "button",
+      "refersTo": "button-circle",
+      "description": "Управление просмотром или закрытие.",
+      "html": "<button class=\"ds-circle\" aria-label=\"Следующее направление\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"m9 5 7 7-7 7\"/></svg></button>",
+      "css": ".ds-circle{display:grid;place-items:center;width:48px;height:48px;border:0;border-radius:50%;background:var(--white);color:var(--blue);cursor:pointer;transition:transform .25s,background .25s}.ds-circle:hover{background:var(--pale);transform:scale(1.08)}.ds-circle:focus-visible{outline:3px solid currentColor;outline-offset:5px;}.ds-circle:active{transform:scale(.97)}"
+    },
+    {
+      "name": "Поле формы",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Видимая подпись и поле на оранжевом листе.",
+      "html": "<label class=\"ds-field\">Ваше имя<input placeholder=\"Как к вам обращаться\" autocomplete=\"name\"></label>",
+      "css": ".ds-field{font-family:var(--body,'IBM Plex Sans',sans-serif);display:block;padding:20px;background:var(--orange);color:var(--white);font-size:13px;font-weight:500}.ds-field input{display:block;width:calc(100% - 48px);margin-top:7px;padding:18px 24px;border:2px solid transparent;border-radius:40px;background:var(--white);color:var(--blue);font:500 16px var(--body,sans-serif)}.ds-field input::placeholder{color:var(--blue);opacity:.75}.ds-field input:focus-visible{outline:3px solid currentColor;outline-offset:5px;}.ds-field input[aria-invalid=true]{border-color:var(--blue);background:var(--pale)}"
+    },
+    {
+      "name": "Выбор направления",
+      "kind": "chip",
+      "refersTo": "direction-spread",
+      "description": "Текущее направление выделено заливкой.",
+      "html": "<div class=\"ds-tabs\"><button aria-pressed=\"true\">Футбол</button><button aria-pressed=\"false\">Английский</button></div>",
+      "css": ".ds-tabs{display:flex;gap:8px;background:var(--blue);padding:16px}.ds-tabs button{font-family:var(--body,'IBM Plex Sans',sans-serif);border:1px solid var(--white);border-radius:30px;background:transparent;color:var(--white);padding:7px 12px;font-size:12px;cursor:pointer}.ds-tabs button[aria-pressed=true]{background:var(--white);color:var(--blue)}.ds-tabs button:hover{background:var(--orange);color:var(--white)}.ds-tabs button:focus-visible{outline:3px solid currentColor;outline-offset:5px;}.ds-tabs button:active{transform:scale(.97)}"
+    },
+    {
+      "name": "Разворот направления",
+      "kind": "card",
+      "refersTo": "direction-spread",
+      "description": "Обложка и описание, без декоративной тени.",
+      "html": "<article class=\"ds-spread\"><div class=\"ds-cover\"><h3>Академия<br>футбола</h3><span>От 2 до 11 лет</span></div><div class=\"ds-copy\"><h3>Играть в команде</h3><p>Знакомиться с мячом и расти в движении.</p></div></article>",
+      "css": ".ds-spread{font-family:var(--body,'IBM Plex Sans',sans-serif);display:flex;min-height:240px;background:var(--soft);color:var(--blue);border-radius:18px;overflow:hidden}.ds-cover,.ds-copy{width:50%;padding:24px}.ds-cover{background:var(--orange);color:var(--white);display:flex;flex-direction:column;justify-content:space-between}.ds-cover h3{font:900 32px/.95 var(--display,sans-serif);text-transform:uppercase;margin:0}.ds-copy h3{font-size:22px;line-height:1.1}.ds-copy p{font-size:16px;line-height:1.35}"
+    },
+    {
+      "name": "Навигация",
+      "kind": "nav",
+      "refersTo": "button-pill",
+      "description": "Компактные ссылки с перекатывающейся подписью.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Пример навигации\"><a href=\"#about\"><span>О нас</span><span aria-hidden=\"true\">О нас</span></a><a href=\"#directions\"><span>Направления</span><span aria-hidden=\"true\">Направления</span></a></nav>",
+      "css": ".ds-nav{font-family:var(--body,'IBM Plex Sans',sans-serif);display:flex;gap:28px;padding:18px;background:var(--blue);color:var(--white);font-size:12px}.ds-nav a{color:inherit;text-decoration:none;height:1.45em;overflow:hidden;display:inline-flex;flex-direction:column}.ds-nav span{display:block;transition:transform .4s cubic-bezier(.22,1,.36,1)}.ds-nav a:hover span,.ds-nav a:focus-visible span{transform:translateY(-100%)}.ds-nav a:focus-visible{outline:3px solid currentColor;outline-offset:5px;}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Crency на языке Надеждика",
+    "overview": "Главная «Надеждика» воспроизводит композицию и характер движения главной crency.agency, адаптируя их к русскому языку и детскому развитию. Большая плотная типографика, открытые цветовые поля, наклейки, волны и перекрывающиеся плоскости образуют деятельную, доброжелательную среду для родителей. Это утверждённая замена прежнего визуального направления.\n\nПингвин Надеждик регулярно появляется в приветствии, направлениях, выборе следующего шага и социальных сценах. Он несёт характер бренда, а смысл действия остаётся за подписью и понятной иконкой. Геометрия исходного референса и снимки сохранены в `docs/research/crency`; продуктовые факты определяет [PRODUCT.md](PRODUCT.md). Объём реализации — вся главная страница, без внутренних страниц; результат предназначен для локального запуска.",
+    "keyCharacteristics": [
+      "Крупные русские заголовки и локальные шрифты.",
+      "Пять точных цветов без тёмного интерфейса.",
+      "Плоские цветовые слои, волны, круги и фигурные листы.",
+      "Шесть направлений: настольный веер и мобильная книга.",
+      "Выразительное движение с полноценным спокойным режимом."
+    ],
+    "rules": [
+      {
+        "name": "Palette",
+        "body": "Использовать только пять утверждённых цветов; прозрачность и смешение этих цветов допустимы как состояния и слои, но не образуют новую палитру. Тёмный текст и тёмные подложки не добавлять.",
+        "section": "colors"
+      },
+      {
+        "name": "Flat Layers",
+        "body": "Глубину создавать перекрытиями, масштабом, поворотом и цветом, а не тенями под каждой поверхностью.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do сохранять точные цвета и локальную пару Roboto Condensed / IBM Plex Sans.",
+      "Do показывать все шесть направлений и отделять «Мы семья» от списка занятий.",
+      "Do повторять пингвина там, где он поддерживает смысл сцены; сохранять осмысленные иконки тем, навигации и действий.",
+      "Do сохранять читаемую статическую страницу без JavaScript и доступ ко всем карточкам в спокойном режиме.",
+      "Do честно обозначать демонстрационную форму и ограничения контраста."
+    ],
+    "donts": [
+      "Don't добавлять тёмные оттенки или новые акцентные цвета.",
+      "Don't превращать настольный веер в разнесённые карточки с перспективными корешками или мобильную книгу в горизонтальную ленту.",
+      "Don't подменять содержательные иконки маскотом и повторять стрелку на каждом элементе без функции.",
+      "Don't придумывать цены, расписание, адреса, контакты, результаты обучения или возрастные ограничения без подтверждения.",
+      "Don't отправлять или сохранять введённые персональные данные и публиковать сайт без отдельного запроса."
+    ]
+  }
+}

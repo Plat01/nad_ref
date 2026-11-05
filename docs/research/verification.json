@@ -1,0 +1,254 @@
+{
+  "checkedAt": "2026-11-05T22:59:18.772Z",
+  "baseURL": "http://127.0.0.1:33807/nad_ref/",
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": 0,
+      "dialogOverflow": 0,
+      "sections": [
+        {
+          "id": "top",
+          "top": 0,
+          "height": 927
+        },
+        {
+          "id": "about",
+          "top": 927,
+          "height": 1980
+        },
+        {
+          "id": "trust",
+          "top": 2907,
+          "height": 900
+        },
+        {
+          "id": "areas",
+          "top": 3807,
+          "height": 1224
+        },
+        {
+          "id": "directions",
+          "top": 5031,
+          "height": 990
+        },
+        {
+          "id": "family",
+          "top": 6021,
+          "height": 945
+        },
+        {
+          "id": "match",
+          "top": 6966,
+          "height": 990
+        },
+        {
+          "id": "request",
+          "top": 7956,
+          "height": 1039
+        },
+        {
+          "id": "footer",
+          "top": 8994,
+          "height": 869
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "overflow": 0,
+      "dialogOverflow": 0,
+      "sections": [
+        {
+          "id": "top",
+          "top": 0,
+          "height": 1024
+        },
+        {
+          "id": "about",
+          "top": 1024,
+          "height": 2253
+        },
+        {
+          "id": "trust",
+          "top": 3277,
+          "height": 1024
+        },
+        {
+          "id": "areas",
+          "top": 4301,
+          "height": 910
+        },
+        {
+          "id": "directions",
+          "top": 5211,
+          "height": 1126
+        },
+        {
+          "id": "family",
+          "top": 6337,
+          "height": 1075
+        },
+        {
+          "id": "match",
+          "top": 7412,
+          "height": 1126
+        },
+        {
+          "id": "request",
+          "top": 8539,
+          "height": 891
+        },
+        {
+          "id": "footer",
+          "top": 9430,
+          "height": 739
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": 0,
+      "dialogOverflow": 0,
+      "sections": [
+        {
+          "id": "top",
+          "top": 0,
+          "height": 756
+        },
+        {
+          "id": "about",
+          "top": 756,
+          "height": 1772
+        },
+        {
+          "id": "trust",
+          "top": 2529,
+          "height": 844
+        },
+        {
+          "id": "areas",
+          "top": 3373,
+          "height": 2356
+        },
+        {
+          "id": "directions",
+          "top": 5729,
+          "height": 4544
+        },
+        {
+          "id": "family",
+          "top": 10273,
+          "height": 886
+        },
+        {
+          "id": "match",
+          "top": 11160,
+          "height": 844
+        },
+        {
+          "id": "request",
+          "top": 12004,
+          "height": 688
+        },
+        {
+          "id": "footer",
+          "top": 12692,
+          "height": 778
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "1440 / 768 / 390: every section, menu and form fit the viewport",
+      "result": "pass"
+    },
+    {
+      "name": "All six desktop directions and keyboard navigation",
+      "result": "pass"
+    },
+    {
+      "name": "Form prefill, validation, focus containment, Escape, focus return and clearing",
+      "result": "pass"
+    },
+    {
+      "name": "Menu anchor closes the modal and reaches its section",
+      "result": "pass"
+    },
+    {
+      "name": "Mood selection changes the next action and form context",
+      "result": "pass"
+    },
+    {
+      "name": "Reduced motion exposes all six complete cards at all three widths",
+      "result": "pass"
+    },
+    {
+      "name": "No JavaScript: readable static page with six directions",
+      "result": "pass"
+    },
+    {
+      "name": "System reduced-motion preference works on first visit",
+      "result": "pass"
+    },
+    {
+      "name": "Chromium synthesized touch: vertical swipe flips cards and subsequent tap opens form",
+      "result": "pass"
+    },
+    {
+      "name": "No browser errors, missing resources or non-GET requests",
+      "result": "pass"
+    }
+  ],
+  "screenshots": [
+    ".impeccable/review/1440-hero.png",
+    ".impeccable/review/1440-top.png",
+    ".impeccable/review/1440-about.png",
+    ".impeccable/review/1440-trust.png",
+    ".impeccable/review/1440-areas.png",
+    ".impeccable/review/1440-directions.png",
+    ".impeccable/review/1440-family.png",
+    ".impeccable/review/1440-match.png",
+    ".impeccable/review/1440-request.png",
+    ".impeccable/review/1440-footer.png",
+    ".impeccable/review/1440-form.png",
+    ".impeccable/review/1440-menu.png",
+    ".impeccable/review/768-hero.png",
+    ".impeccable/review/768-top.png",
+    ".impeccable/review/768-about.png",
+    ".impeccable/review/768-trust.png",
+    ".impeccable/review/768-areas.png",
+    ".impeccable/review/768-directions.png",
+    ".impeccable/review/768-family.png",
+    ".impeccable/review/768-match.png",
+    ".impeccable/review/768-request.png",
+    ".impeccable/review/768-footer.png",
+    ".impeccable/review/768-form.png",
+    ".impeccable/review/768-menu.png",
+    ".impeccable/review/390-hero.png",
+    ".impeccable/review/390-top.png",
+    ".impeccable/review/390-about.png",
+    ".impeccable/review/390-trust.png",
+    ".impeccable/review/390-areas.png",
+    ".impeccable/review/390-directions.png",
+    ".impeccable/review/390-family.png",
+    ".impeccable/review/390-match.png",
+    ".impeccable/review/390-request.png",
+    ".impeccable/review/390-footer.png",
+    ".impeccable/review/390-form.png",
+    ".impeccable/review/390-menu.png",
+    ".impeccable/review/form-validated.png",
+    ".impeccable/review/1440-reduced-deck.png",
+    ".impeccable/review/768-reduced-deck.png",
+    ".impeccable/review/390-reduced-deck.png"
+  ],
+  "errors": [],
+  "nonGetRequests": [],
+  "failures": [],
+  "cancelledResources": [],
+  "result": "pass"
+}

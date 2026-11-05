@@ -1,0 +1,66 @@
+{
+  "assets": [
+    {
+      "file": "public/assets/hero.webp",
+      "origin": "assets/hero.webp",
+      "sha256": "5da404c445f807fb58b308b0fb28dd782035c8c8162f99a585b52013c00ecfa7",
+      "unchangedFromOriginal": true
+    },
+    {
+      "file": "public/assets/dance.webp",
+      "origin": "assets/dance.webp",
+      "sha256": "4d2f389af6abb6fe6e2d68c32b532f61c0456189c72e82a80f53767fe7341653",
+      "unchangedFromOriginal": true
+    },
+    {
+      "file": "public/assets/english.webp",
+      "origin": "assets/english.webp",
+      "sha256": "42d66ee2418f677d73a16b94007d03c21d261436b08537185707363361bcc57f",
+      "unchangedFromOriginal": true
+    },
+    {
+      "file": "public/assets/favicon.svg",
+      "origin": "assets/favicon.svg",
+      "sha256": "5f8c0993a35553d9e1c7bbf7f73c9d1cbe8f924344aa0fad22b5355bc7636b4b",
+      "unchangedFromOriginal": true
+    },
+    {
+      "file": "public/assets/mascot-wave-atlas.png",
+      "origin": "assets/mascot-wave-atlas.png",
+      "sha256": "d72ebd392399314ee18504eeee7cf2ec435c7470ffb0d53565e72910d4357231",
+      "unchangedFromOriginal": true
+    },
+    {
+      "file": "public/assets/football.webp",
+      "origin": "assets/football.webp",
+      "sha256": "4409886ba02ec0b925e74c890515db762fef89807cf937fbd59753879d86ec53",
+      "unchangedFromOriginal": true
+    },
+    {
+      "file": "public/assets/penguin-welcome.webp",
+      "origin": "assets/penguin-welcome.webp",
+      "sha256": "13de5812b27be5241855928ea38dfdac1d8736bbd45909d9b2c763105b4a063c",
+      "unchangedFromOriginal": true
+    },
+    {
+      "file": "public/assets/nadezhdik-logo.svg",
+      "origin": "assets/nadezhdik-logo.svg",
+      "sha256": "cd22533116252da5c81a6b9db7282e23d95e0447e6a1b83f031f01da6a7a784c",
+      "unchangedFromOriginal": true
+    }
+  ],
+  "fonts": {
+    "Roboto Condensed": "https://github.com/google/fonts/tree/main/ofl/robotocondensed",
+    "IBM Plex Sans": "https://github.com/google/fonts/tree/main/ofl/ibmplexsans"
+  },
+  "reference": "https://crency.agency/",
+  "referenceSnapshot": "2026-11-06",
+  "svgGeometry": [
+    "heroLine",
+    "stickerStar",
+    "stickerSeal",
+    "stickerRibbon",
+    "caseStar"
+  ],
+  "note": "SVG geometry reused from the reference; mascot files are unmodified copies of supplied assets. Font OFL notices accompany local WOFF2 files."
+}

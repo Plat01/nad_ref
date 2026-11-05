@@ -1,0 +1,3892 @@
+{
+ "url": "http://localhost:4174/",
+ "at": "2026-11-05T22:28:33.934Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    0.61,
+    1,
+    1,
+    1,
+    0.79,
+    0.56,
+    0.73,
+    0.79,
+    0.44,
+    1,
+    0.49
+   ],
+   "motion": {
+    "elements": 71,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 71,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 9864,
+     "screens": 11,
+     "words": 356,
+     "img": 18,
+     "video": 0,
+     "canvas": 0,
+     "svg": 66,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 13,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "penguin-welcome.webp",
+      "football.webp",
+      "english.webp",
+      "dance.webp",
+      "football.webp",
+      "football.webp",
+      "english.webp",
+      "dance.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИКоМ.",
+     "words": 6,
+     "chars": 43,
+     "lines": 3,
+     "size": 227.4,
+     "vw": 15.8,
+     "font": "IBM Plex Sans",
+     "weight": 500,
+     "tracking": -0.031,
+     "leading": 0.6,
+     "upper": false,
+     "italic": true,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 176,
+     "mixedFonts": [
+      "Roboto Condensed",
+      "IBM Plex Sans italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИКоМ.",
+     "words": 6,
+     "lines": 3,
+     "size": 203,
+     "font": "Roboto Condensed"
+    },
+    "headings": [
+     {
+      "text": "ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИКоМ.",
+      "words": 6,
+      "chars": 43,
+      "lines": 3,
+      "size": 227.4,
+      "vw": 15.8,
+      "font": "IBM Plex Sans",
+      "weight": 500,
+      "tracking": -0.031,
+      "leading": 0.6,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 176,
+      "mixedFonts": [
+       "Roboto Condensed",
+       "IBM Plex Sans italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Помогаем детям открывать мир",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 67.7,
+      "vw": 4.7,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 1025,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Интересно пробовать. Здорово получаться.",
+      "words": 4,
+      "chars": 40,
+      "lines": 4,
+      "size": 49,
+      "vw": 3.4,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 3328,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Найти занятие",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 33.1,
+      "vw": 2.3,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 3376,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "ЧТО ИНТЕРЕСНО ВАШЕМУ РЕБЁНКУ?",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 93.6,
+      "vw": 6.5,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3867,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Языки",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 53.3,
+      "vw": 3.7,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.11,
+      "top": 4560,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Спорт",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 53.3,
+      "vw": 3.7,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.1,
+      "top": 4589,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Творчество и школа",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 53.3,
+      "vw": 3.7,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 4646,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "У каждого — свой интерес",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "IBM Plex Sans",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.35,
+      "top": 5085,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "АКАДЕМИЯ ФУТБОЛА",
+      "words": 2,
+      "chars": 16,
+      "lines": 2,
+      "size": 47.5,
+      "vw": 3.3,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 5279,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "НАДЕЖДИК ЮНИОР",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 47.5,
+      "vw": 3.3,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.23,
+      "top": 5291,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "КИТАЙСКИЙ ЯЗЫК",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 47.5,
+      "vw": 3.3,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 5291,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "АНГЛИЙСКИЙ ЯЗЫК",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 47.5,
+      "vw": 3.3,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.23,
+      "top": 5303,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "ПОДГОТОВКА К ШКОЛЕ",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 47.5,
+      "vw": 3.3,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 5303,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "ХОРЕОГРАФИЯ",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 47.5,
+      "vw": 3.3,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.19,
+      "top": 5329,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "АКАДЕМИЯ ФУТБОЛА",
+      "words": 2,
+      "chars": 16,
+      "lines": 2,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 0.98,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.23,
+      "top": 5353,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "МЫ СЕМЬЯ",
+      "words": 2,
+      "chars": 8,
+      "lines": 2,
+      "size": 115.2,
+      "vw": 8,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 6134,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "БЫТЬ РЯДОМ",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 6239,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "РАСТИ ВМЕСТЕ",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.57,
+      "top": 6481,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "ПОДБЕРЁМ ЗАНЯТИЕ ВАШЕМУ РЕБЁНКУ",
+      "words": 4,
+      "chars": 31,
+      "lines": 3,
+      "size": 148.3,
+      "vw": 10.3,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 7210,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "С ЧЕГО НАЧНЁМ ЗНАКОМСТВО?",
+      "words": 4,
+      "chars": 25,
+      "lines": 2,
+      "size": 144,
+      "vw": 10,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 8066,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "НАДЕЖДИК НАДЕЖДИК НАДЕЖДИК НАДЕЖДИК",
+      "words": 4,
+      "chars": 35,
+      "lines": 1,
+      "size": 201.6,
+      "vw": 14,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 8994,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Расти интересно. Давайте вместе!",
+      "words": 4,
+      "chars": 32,
+      "lines": 2,
+      "size": 57.6,
+      "vw": 4,
+      "font": "IBM Plex Sans",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 9310,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Познакомимся?",
+      "words": 1,
+      "chars": 13,
+      "lines": 1,
+      "size": 57.6,
+      "vw": 4,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 9493,
+      "tag": "button",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 24,
+     "maxLines": 4,
+     "over2Lines": 3,
+     "statements": 0,
+     "centered": 16,
+     "medianWords": 2,
+     "mixedFontHeadings": 1
+    },
+    "type": {
+     "families": [
+      {
+       "family": "IBM Plex Sans",
+       "share": 0.82,
+       "mono": false
+      },
+      {
+       "family": "Roboto Condensed",
+       "share": 0.18,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      22,
+      33,
+      36,
+      43,
+      48,
+      49,
+      53,
+      58,
+      68,
+      72,
+      94,
+      115,
+      144,
+      148,
+      169,
+      185,
+      202,
+      203,
+      223,
+      227
+     ],
+     "sizeCount": 30,
+     "notLoaded": [],
+     "body": {
+      "font": "IBM Plex Sans",
+      "size": 21.6,
+      "leading": 1.4,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": null
+     },
+     "measureChars": 42,
+     "max": {
+      "size": 227.4,
+      "vw": 15.8,
+      "font": "IBM Plex Sans",
+      "text": "е"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.18,
+     "centerShare": 0.59,
+     "smallText": 17
+    },
+    "eyebrows": [
+     {
+      "text": "2–11 лет",
+      "above": "ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИК",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12.2,
+      "top": 116
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 / 06",
+      "size": 11,
+      "top": 5232
+     },
+     {
+      "text": "01 / 06",
+      "size": 13,
+      "top": 5789
+     }
+    ],
+    "color": {
+     "bodyBg": "#0091cf",
+     "bodyBgHsl": {
+      "h": 198,
+      "s": 1,
+      "l": 0.41
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0091cf",
+       "top": 0,
+       "hsl": {
+        "h": 198,
+        "s": 1,
+        "l": 0.41
+       }
+      },
+      {
+       "color": "#e8f6fc",
+       "top": 927,
+       "hsl": {
+        "h": 198,
+        "s": 0.77,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#ff532d",
+       "top": 6021,
+       "hsl": {
+        "h": 11,
+        "s": 1,
+        "l": 0.59
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#ffffff",
+       "share": 0.5
+      },
+      {
+       "color": "#0091cf",
+       "share": 0.5
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#0091cf"
+     },
+     "lowContrast": [
+      {
+       "text": "О нас",
+       "ratio": 3,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#ffffff",
+       "bg": "#24a0d6"
+      },
+      {
+       "text": "О нас",
+       "ratio": 3,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#ffffff",
+       "bg": "#24a0d6"
+      },
+      {
+       "text": "Занятия",
+       "ratio": 3,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#ffffff",
+       "bg": "#24a0d6"
+      },
+      {
+       "text": "Занятия",
+       "ratio": 3,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#ffffff",
+       "bg": "#24a0d6"
+      },
+      {
+       "text": "Направления",
+       "ratio": 3,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#ffffff",
+       "bg": "#24a0d6"
+      },
+      {
+       "text": "Направления",
+       "ratio": 3,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#ffffff",
+       "bg": "#24a0d6"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 14,
+     "inHero": 5,
+     "radius": "pill",
+     "height": 33,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "К содержанию",
+      "Оставить заявку",
+      "Оставить заявку",
+      "С движением",
+      "Спокойнее"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "div.footer-bottom 1319px"
+     ],
+     "outlinedBoxes": 7,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 26,
+     "boxRadius": 18,
+     "squareMedia": 4,
+     "roundedMedia": 9,
+     "mediaRadius": 12,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 4539
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.6
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 46,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "roboto condensed",
+     "ibm plex sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 9864,
+    "margins": {
+     "left": 60,
+     "right": 53
+    },
+    "sections": [
+     {
+      "sel": "section#top.hero",
+      "tag": "section",
+      "top": 0,
+      "height": 927,
+      "words": 29,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "тям интересно",
+       "size": 203,
+       "tag": "h1"
+      },
+      "left": 60,
+      "right": 53,
+      "textLeft": 60,
+      "textRight": 67,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about",
+      "tag": "section",
+      "top": 927,
+      "height": 1980,
+      "words": 38,
+      "media": 0,
+      "middle": 114,
+      "heading": {
+       "text": "Помогаем детям",
+       "size": 68,
+       "tag": "h2"
+      },
+      "left": 60,
+      "right": 136,
+      "textLeft": 60,
+      "textRight": 136,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.trust",
+      "tag": "section",
+      "top": 2907,
+      "height": 900,
+      "words": 6,
+      "media": 1,
+      "middle": 136,
+      "heading": {
+       "text": "Интересно пробовать.",
+       "size": 49,
+       "tag": "h2"
+      },
+      "left": 174,
+      "right": 156,
+      "textLeft": 174,
+      "textRight": 269,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#areas.areas",
+      "tag": "section",
+      "top": 3807,
+      "height": 1224,
+      "words": 53,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Что интересно",
+       "size": 94,
+       "tag": "h2"
+      },
+      "left": 142,
+      "right": 97,
+      "textLeft": 142,
+      "textRight": 108,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#directions.directions",
+      "tag": "section",
+      "top": 5031,
+      "height": 990,
+      "words": 99,
+      "media": 6,
+      "middle": 0,
+      "heading": {
+       "text": "Академия футбола",
+       "size": 48,
+       "tag": "h3"
+      },
+      "left": 170,
+      "right": 229,
+      "textLeft": 172,
+      "textRight": 229,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section#family.family",
+      "tag": "section",
+      "top": 6021,
+      "height": 945,
+      "words": 22,
+      "media": 0,
+      "middle": 36,
+      "heading": {
+       "text": "Мы семья",
+       "size": 115,
+       "tag": "h2"
+      },
+      "left": 60,
+      "right": 164,
+      "textLeft": 60,
+      "textRight": 268,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.match",
+      "tag": "section",
+      "top": 6966,
+      "height": 990,
+      "words": 6,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Подберём",
+       "size": 148,
+       "tag": "h2"
+      },
+      "left": 167,
+      "right": 167,
+      "textLeft": 167,
+      "textRight": 167,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#request.mood",
+      "tag": "section",
+      "top": 7956,
+      "height": 1039,
+      "words": 17,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "С чего начнём",
+       "size": 144,
+       "tag": "h2"
+      },
+      "left": 258,
+      "right": 259,
+      "textLeft": 258,
+      "textRight": 259,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 8994,
+      "height": 869,
+      "words": 30,
+      "media": 1,
+      "middle": 3071,
+      "heading": {
+       "text": "Надеждик",
+       "size": 202,
+       "tag": "span"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 2908,
+      "height": 304
+     },
+     {
+      "top": 3536,
+      "height": 316
+     },
+     {
+      "top": 4284,
+      "height": 300
+     }
+    ],
+    "h1s": [
+     {
+      "text": "ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИКоМ.",
+      "size": 203,
+      "top": 176,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 60,
+      "n": 5
+     },
+     {
+      "x": 174,
+      "n": 2
+     },
+     {
+      "x": 820,
+      "n": 2
+     },
+     {
+      "x": 243,
+      "n": 1
+     },
+     {
+      "x": 467,
+      "n": 1
+     },
+     {
+      "x": 1117,
+      "n": 1
+     },
+     {
+      "x": 1245,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 13,
+    "bodySize": 22,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.03,
+    "voidBox": {
+     "x": 540,
+     "y": 720,
+     "w": 540,
+     "h": 60
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.43,
+    1,
+    1,
+    1,
+    0.94,
+    0.54,
+    0.81,
+    0.56,
+    0.68,
+    0.62
+   ],
+   "motion": {
+    "elements": 71,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 71,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 10169,
+     "screens": 9.9,
+     "words": 356,
+     "img": 18,
+     "video": 0,
+     "canvas": 0,
+     "svg": 66,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "football.webp",
+      "english.webp",
+      "dance.webp",
+      "football.webp",
+      "football.webp",
+      "english.webp",
+      "dance.webp",
+      "hero.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИКоМ.",
+     "words": 6,
+     "chars": 43,
+     "lines": 3,
+     "size": 124.7,
+     "vw": 16.2,
+     "font": "IBM Plex Sans",
+     "weight": 500,
+     "tracking": -0.031,
+     "leading": 0.6,
+     "upper": false,
+     "italic": true,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 256,
+     "mixedFonts": [
+      "Roboto Condensed",
+      "IBM Plex Sans italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИКоМ.",
+     "words": 6,
+     "lines": 3,
+     "size": 111.4,
+     "font": "Roboto Condensed"
+    },
+    "headings": [
+     {
+      "text": "ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИКоМ.",
+      "words": 6,
+      "chars": 43,
+      "lines": 3,
+      "size": 124.7,
+      "vw": 16.2,
+      "font": "IBM Plex Sans",
+      "weight": 500,
+      "tracking": -0.031,
+      "leading": 0.6,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 256,
+      "mixedFonts": [
+       "Roboto Condensed",
+       "IBM Plex Sans italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Помогаем детям открывать мир",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 36.9,
+      "vw": 4.8,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 1125,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Интересно пробовать. Здорово получаться.",
+      "words": 4,
+      "chars": 40,
+      "lines": 4,
+      "size": 28.4,
+      "vw": 3.7,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 3802,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ЧТО ИНТЕРЕСНО ВАШЕМУ РЕБЁНКУ?",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 55,
+      "vw": 7.2,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4361,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Языки",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 34,
+      "vw": 4.4,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.13,
+      "top": 4841,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Спорт",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 34,
+      "vw": 4.4,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.12,
+      "top": 4866,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Творчество и школа",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 34,
+      "vw": 4.4,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.23,
+      "top": 4916,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "У каждого — свой интерес",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "IBM Plex Sans",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.4,
+      "top": 5272,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "АКАДЕМИЯ ФУТБОЛА",
+      "words": 2,
+      "chars": 16,
+      "lines": 2,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 5524,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "НАДЕЖДИК ЮНИОР",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.33,
+      "top": 5536,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "КИТАЙСКИЙ ЯЗЫК",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 5546,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "АНГЛИЙСКИЙ ЯЗЫК",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.33,
+      "top": 5548,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "ПОДГОТОВКА К ШКОЛЕ",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 5548,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "ХОРЕОГРАФИЯ",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 5570,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "АКАДЕМИЯ ФУТБОЛА",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 0.98,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.34,
+      "top": 5618,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "МЫ СЕМЬЯ",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 64,
+      "vw": 8.3,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 6445,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "БЫТЬ РЯДОМ",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 39.9,
+      "vw": 5.2,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 6763,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "РАСТИ ВМЕСТЕ",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 39.9,
+      "vw": 5.2,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 6905,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "ПОДБЕРЁМ ЗАНЯТИЕ ВАШЕМУ РЕБЁНКУ",
+      "words": 4,
+      "chars": 31,
+      "lines": 3,
+      "size": 79.1,
+      "vw": 10.3,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 7819,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "С ЧЕГО НАЧНЁМ ЗНАКОМСТВО?",
+      "words": 4,
+      "chars": 25,
+      "lines": 2,
+      "size": 76.8,
+      "vw": 10,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 8649,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "НАДЕЖДИК НАДЕЖДИК НАДЕЖДИК НАДЕЖДИК",
+      "words": 4,
+      "chars": 35,
+      "lines": 1,
+      "size": 107.5,
+      "vw": 14,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 9430,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Расти интересно. Давайте вместе!",
+      "words": 4,
+      "chars": 32,
+      "lines": 2,
+      "size": 35,
+      "vw": 4.6,
+      "font": "IBM Plex Sans",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 9652,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Познакомимся?",
+      "words": 1,
+      "chars": 13,
+      "lines": 1,
+      "size": 30.7,
+      "vw": 4,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 9835,
+      "tag": "button",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 23,
+     "maxLines": 4,
+     "over2Lines": 3,
+     "statements": 0,
+     "centered": 15,
+     "medianWords": 2,
+     "mixedFontHeadings": 1
+    },
+    "type": {
+     "families": [
+      {
+       "family": "IBM Plex Sans",
+       "share": 0.82,
+       "mono": false
+      },
+      {
+       "family": "Roboto Condensed",
+       "share": 0.18,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      26,
+      28,
+      31,
+      34,
+      35,
+      37,
+      40,
+      55,
+      64,
+      77,
+      79,
+      92,
+      102,
+      108,
+      111,
+      123,
+      125
+     ],
+     "sizeCount": 27,
+     "notLoaded": [],
+     "body": {
+      "font": "IBM Plex Sans",
+      "size": 17,
+      "leading": 1.4,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": null
+     },
+     "measureChars": 41,
+     "max": {
+      "size": 124.7,
+      "vw": 16.2,
+      "font": "IBM Plex Sans",
+      "text": "е"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.18,
+     "centerShare": 0.59,
+     "smallText": 23
+    },
+    "eyebrows": [
+     {
+      "text": "2–11 лет",
+      "above": "ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИК",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 154
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 / 06",
+      "size": 11,
+      "top": 5468
+     },
+     {
+      "text": "01 / 06",
+      "size": 13,
+      "top": 6079
+     }
+    ],
+    "color": {
+     "bodyBg": "#0091cf",
+     "bodyBgHsl": {
+      "h": 198,
+      "s": 1,
+      "l": 0.41
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0091cf",
+       "top": 0,
+       "hsl": {
+        "h": 198,
+        "s": 1,
+        "l": 0.41
+       }
+      },
+      {
+       "color": "#e8f6fc",
+       "top": 1024,
+       "hsl": {
+        "h": 198,
+        "s": 0.77,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#ff532d",
+       "top": 6337,
+       "hsl": {
+        "h": 11,
+        "s": 1,
+        "l": 0.59
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#ffffff",
+       "share": 0.5
+      },
+      {
+       "color": "#0091cf",
+       "share": 0.5
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#0091cf"
+     },
+     "lowContrast": [
+      {
+       "text": "О нас",
+       "ratio": 3,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#ffffff",
+       "bg": "#24a0d6"
+      },
+      {
+       "text": "О нас",
+       "ratio": 3,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#ffffff",
+       "bg": "#24a0d6"
+      },
+      {
+       "text": "Занятия",
+       "ratio": 3,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#ffffff",
+       "bg": "#24a0d6"
+      },
+      {
+       "text": "Занятия",
+       "ratio": 3,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#ffffff",
+       "bg": "#24a0d6"
+      },
+      {
+       "text": "Направления",
+       "ratio": 3,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#ffffff",
+       "bg": "#24a0d6"
+      },
+      {
+       "text": "Направления",
+       "ratio": 3,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#ffffff",
+       "bg": "#24a0d6"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 14,
+     "inHero": 5,
+     "radius": "pill",
+     "height": 33,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "К содержанию",
+      "Оставить заявку",
+      "Оставить заявку",
+      "С движением",
+      "Спокойнее"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "div.footer-bottom 707px"
+     ],
+     "outlinedBoxes": 7,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 24,
+     "boxRadius": 18,
+     "squareMedia": 2,
+     "roundedMedia": 6,
+     "mediaRadius": 12,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 4834
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.51
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 46,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "roboto condensed",
+     "ibm plex sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 10169,
+    "margins": {
+     "left": 22,
+     "right": 26
+    },
+    "sections": [
+     {
+      "sel": "section#top.hero",
+      "tag": "section",
+      "top": 0,
+      "height": 1024,
+      "words": 29,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "тям интересно",
+       "size": 111,
+       "tag": "h1"
+      },
+      "left": 31,
+      "right": 26,
+      "textLeft": 31,
+      "textRight": 29,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about",
+      "tag": "section",
+      "top": 1024,
+      "height": 2253,
+      "words": 38,
+      "media": 0,
+      "middle": 98,
+      "heading": {
+       "text": "Помогаем детям",
+       "size": 37,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.trust",
+      "tag": "section",
+      "top": 3277,
+      "height": 1024,
+      "words": 6,
+      "media": 1,
+      "middle": 31,
+      "heading": null,
+      "left": 91,
+      "right": 86,
+      "textLeft": 91,
+      "textRight": 163,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#areas.areas",
+      "tag": "section",
+      "top": 4301,
+      "height": 910,
+      "words": 53,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Что интересно",
+       "size": 55,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 53,
+      "textLeft": 48,
+      "textRight": 53,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#directions.directions",
+      "tag": "section",
+      "top": 5211,
+      "height": 1126,
+      "words": 99,
+      "media": 7,
+      "middle": 0,
+      "heading": {
+       "text": "Академия футбола",
+       "size": 34,
+       "tag": "h3"
+      },
+      "left": 0,
+      "right": 15,
+      "textLeft": 0,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section#family.family",
+      "tag": "section",
+      "top": 6337,
+      "height": 1075,
+      "words": 22,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Мы семья",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 9,
+      "textLeft": 31,
+      "textRight": 139,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.match",
+      "tag": "section",
+      "top": 7412,
+      "height": 1126,
+      "words": 6,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Подберём",
+       "size": 79,
+       "tag": "h2"
+      },
+      "left": 89,
+      "right": 89,
+      "textLeft": 89,
+      "textRight": 89,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#request.mood",
+      "tag": "section",
+      "top": 8539,
+      "height": 891,
+      "words": 17,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "С чего начнём",
+       "size": 77,
+       "tag": "h2"
+      },
+      "left": 47,
+      "right": 47,
+      "textLeft": 98,
+      "textRight": 95,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 9430,
+      "height": 739,
+      "words": 30,
+      "media": 1,
+      "middle": 1688,
+      "heading": {
+       "text": "Надеждик",
+       "size": 108,
+       "tag": "span"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 3280,
+      "height": 412
+     },
+     {
+      "top": 3924,
+      "height": 428
+     },
+     {
+      "top": 7400,
+      "height": 404
+     }
+    ],
+    "h1s": [
+     {
+      "text": "ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИКоМ.",
+      "size": 111,
+      "top": 256,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [
+     {
+      "text": "Танцы",
+      "side": "left",
+      "px": 0
+     }
+    ],
+    "edges": [
+     {
+      "x": 31,
+      "n": 5
+     },
+     {
+      "x": 91,
+      "n": 2
+     },
+     {
+      "x": 403,
+      "n": 2
+     },
+     {
+      "x": 129,
+      "n": 1
+     },
+     {
+      "x": 232,
+      "n": 1
+     },
+     {
+      "x": 597,
+      "n": 1
+     },
+     {
+      "x": 666,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 13,
+    "bodySize": 17,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.58,
+    1,
+    1,
+    0.99,
+    0.95,
+    0.9,
+    0.82,
+    0.82,
+    0.82,
+    0.88,
+    0.82,
+    0.71
+   ],
+   "motion": {
+    "elements": 67,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 67,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 13470,
+     "screens": 16,
+     "words": 465,
+     "img": 18,
+     "video": 0,
+     "canvas": 0,
+     "svg": 66,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "football.webp",
+      "english.webp",
+      "dance.webp",
+      "football.webp",
+      "football.webp",
+      "english.webp",
+      "dance.webp",
+      "hero.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "РаСТИ.",
+     "words": 1,
+     "chars": 6,
+     "lines": 1,
+     "size": 85.8,
+     "vw": 22,
+     "font": "IBM Plex Sans",
+     "weight": 500,
+     "tracking": -0.036,
+     "leading": 0.6,
+     "upper": false,
+     "italic": true,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 0.37,
+     "top": 320,
+     "mixedFonts": [
+      "Roboto Condensed",
+      "IBM Plex Sans italic"
+     ],
+     "tag": "span",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИКоМ.",
+     "words": 6,
+     "lines": 5,
+     "size": 78,
+     "font": "Roboto Condensed"
+    },
+    "headings": [
+     {
+      "text": "ДеТЯМ ИНТЕРЕСНО",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 76,
+      "vw": 19.5,
+      "font": "IBM Plex Sans",
+      "weight": 500,
+      "tracking": -0.041,
+      "leading": 0.6,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 197,
+      "mixedFonts": [
+       "Roboto Condensed",
+       "IBM Plex Sans italic"
+      ],
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "РаСТИ.",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 85.8,
+      "vw": 22,
+      "font": "IBM Plex Sans",
+      "weight": 500,
+      "tracking": -0.036,
+      "leading": 0.6,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.37,
+      "top": 320,
+      "mixedFonts": [
+       "Roboto Condensed",
+       "IBM Plex Sans italic"
+      ],
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Помогаем детям открывать мир",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 38.2,
+      "vw": 9.8,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 823,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Интересно пробовать. Здорово получаться.",
+      "words": 4,
+      "chars": 40,
+      "lines": 2,
+      "size": 35.1,
+      "vw": 9,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.9,
+      "top": 2664,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ЧТО ИНТЕРЕСНО ВАШЕМУ РЕБЁНКУ?",
+      "words": 4,
+      "chars": 29,
+      "lines": 4,
+      "size": 54.6,
+      "vw": 14,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.91,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3418,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Спорт",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 46,
+      "vw": 11.8,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.32,
+      "top": 3744,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Языки",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 46,
+      "vw": 11.8,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.36,
+      "top": 4388,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Творчество и школа",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 46,
+      "vw": 11.8,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.62,
+      "top": 5030,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "У каждого — свой интерес",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "IBM Plex Sans",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 5763,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "АКАДЕМИЯ ФУТБОЛА",
+      "words": 2,
+      "chars": 16,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 5874,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "НАДЕЖДИК ЮНИОР",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 5882,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "АНГЛИЙСКИЙ ЯЗЫК",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 5890,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "ХОРЕОГРАФИЯ",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 5898,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "ПОДГОТОВКА К ШКОЛЕ",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 5906,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "КИТАЙСКИЙ ЯЗЫК",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 5914,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "АКАДЕМИЯ ФУТБОЛА",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.69,
+      "top": 6183,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "НАДЕЖДИК ЮНИОР",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.64,
+      "top": 6191,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "АНГЛИЙСКИЙ ЯЗЫК",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.63,
+      "top": 6199,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "ХОРЕОГРАФИЯ",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.46,
+      "top": 6207,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "ПОДГОТОВКА К ШКОЛЕ",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.73,
+      "top": 6215,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "КИТАЙСКИЙ ЯЗЫК",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.58,
+      "top": 6223,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "МЫ СЕМЬЯ",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 70.2,
+      "vw": 18,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 10393,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "БЫТЬ РЯДОМ",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 35.1,
+      "vw": 9,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.73,
+      "top": 10681,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "РАСТИ ВМЕСТЕ",
+      "words": 2,
+      "chars": 12,
+      "lines": 2,
+      "size": 35.1,
+      "vw": 9,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.73,
+      "top": 10772,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "ПОДБЕРЁМ ЗАНЯТИЕ ВАШЕМУ РЕБЁНКУ",
+      "words": 4,
+      "chars": 31,
+      "lines": 4,
+      "size": 56.6,
+      "vw": 14.5,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 11464,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "С ЧЕГО НАЧНЁМ ЗНАКОМСТВО?",
+      "words": 4,
+      "chars": 25,
+      "lines": 3,
+      "size": 61.2,
+      "vw": 15.7,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 0.91,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 12119,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "НАДЕЖДИК НАДЕЖДИК НАДЕЖДИК НАДЕЖДИК",
+      "words": 4,
+      "chars": 35,
+      "lines": 1,
+      "size": 85.8,
+      "vw": 22,
+      "font": "Roboto Condensed",
+      "weight": 900,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 12692,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Расти интересно. Давайте вместе!",
+      "words": 4,
+      "chars": 32,
+      "lines": 2,
+      "size": 37,
+      "vw": 9.5,
+      "font": "IBM Plex Sans",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 12899,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Познакомимся?",
+      "words": 1,
+      "chars": 13,
+      "lines": 1,
+      "size": 31,
+      "vw": 7.9,
+      "font": "IBM Plex Sans",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 13132,
+      "tag": "button",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 29,
+     "maxLines": 4,
+     "over2Lines": 3,
+     "statements": 0,
+     "centered": 16,
+     "medianWords": 2,
+     "mixedFontHeadings": 2
+    },
+    "type": {
+     "families": [
+      {
+       "family": "IBM Plex Sans",
+       "share": 0.86,
+       "mono": false
+      },
+      {
+       "family": "Roboto Condensed",
+       "share": 0.14,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      20,
+      25,
+      29,
+      31,
+      32,
+      35,
+      37,
+      38,
+      46,
+      54,
+      55,
+      57,
+      59,
+      61,
+      68,
+      70,
+      76,
+      78,
+      86
+     ],
+     "sizeCount": 29,
+     "notLoaded": [],
+     "body": {
+      "font": "IBM Plex Sans",
+      "size": 14,
+      "leading": 1.3,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 3.2
+     },
+     "measureChars": 43,
+     "max": {
+      "size": 85.8,
+      "vw": 22,
+      "font": "IBM Plex Sans",
+      "text": "а"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.14,
+     "centerShare": 0.68,
+     "smallText": 31
+    },
+    "eyebrows": [
+     {
+      "text": "2–11 лет",
+      "above": "ДеТЯМ ИНТЕРЕСНО",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 114
+     },
+     {
+      "text": "Узнаватьновое",
+      "above": "РаСТИ.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": true,
+      "size": 9,
+      "top": 278
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 / 06",
+      "size": 9,
+      "top": 6139
+     },
+     {
+      "text": "02 / 06",
+      "size": 9,
+      "top": 6147
+     },
+     {
+      "text": "03 / 06",
+      "size": 9,
+      "top": 6155
+     },
+     {
+      "text": "04 / 06",
+      "size": 9,
+      "top": 6163
+     },
+     {
+      "text": "05 / 06",
+      "size": 9,
+      "top": 6171
+     },
+     {
+      "text": "06 / 06",
+      "size": 9,
+      "top": 6179
+     },
+     {
+      "text": "01 / 06",
+      "size": 13,
+      "top": 6441
+     }
+    ],
+    "color": {
+     "bodyBg": "#0091cf",
+     "bodyBgHsl": {
+      "h": 198,
+      "s": 1,
+      "l": 0.41
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0091cf",
+       "top": 0,
+       "hsl": {
+        "h": 198,
+        "s": 1,
+        "l": 0.41
+       }
+      },
+      {
+       "color": "#e8f6fc",
+       "top": 756,
+       "hsl": {
+        "h": 198,
+        "s": 0.77,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#ff532d",
+       "top": 3706,
+       "hsl": {
+        "h": 11,
+        "s": 1,
+        "l": 0.59
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 4350,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#ffece6",
+       "top": 4992,
+       "hsl": {
+        "h": 14,
+        "s": 1,
+        "l": 0.95
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0091cf",
+       "share": 0.65
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.35
+      }
+     ],
+     "button": {
+      "bg": "#0091cf",
+      "hsl": {
+       "h": 198,
+       "s": 1,
+       "l": 0.41
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "Узнаватьновое",
+       "ratio": 3.2,
+       "need": 4.5,
+       "size": 9,
+       "fg": "#ffffff",
+       "bg": "#ff532d"
+      },
+      {
+       "text": "Найти занятие",
+       "ratio": 3.2,
+       "need": 4.5,
+       "size": 20,
+       "fg": "#ffffff",
+       "bg": "#ff532d"
+      },
+      {
+       "text": "Играть, двигаться и быть частью команды.",
+       "ratio": 3.2,
+       "need": 4.5,
+       "size": 17,
+       "fg": "#ffffff",
+       "bg": "#ff532d"
+      },
+      {
+       "text": "Академия футбола · Юниор",
+       "ratio": 3.2,
+       "need": 4.5,
+       "size": 13,
+       "fg": "#ffffff",
+       "bg": "#ff532d"
+      },
+      {
+       "text": "Как вам удобнее?",
+       "ratio": 3.2,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#0091cf",
+       "bg": "#e8f6fc"
+      },
+      {
+       "text": "К содержанию",
+       "ratio": 3.5,
+       "need": 4.5,
+       "size": 16,
+       "fg": "#0091cf",
+       "bg": "#ffffff"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 13,
+     "inHero": 4,
+     "radius": "pill",
+     "height": 40,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "К содержанию",
+      "Оставить заявку",
+      "С движением",
+      "Спокойнее"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "div.footer-bottom 359px"
+     ],
+     "outlinedBoxes": 12,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 21,
+     "boxRadius": 18,
+     "squareMedia": 0,
+     "roundedMedia": 3,
+     "mediaRadius": 28,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 51,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "roboto condensed",
+     "ibm plex sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 13470,
+    "margins": {
+     "left": 16,
+     "right": 3
+    },
+    "sections": [
+     {
+      "sel": "section#top.hero",
+      "tag": "section",
+      "top": 0,
+      "height": 756,
+      "words": 29,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "сти.",
+       "size": 78,
+       "tag": "h1"
+      },
+      "left": 14,
+      "right": 13,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about",
+      "tag": "section",
+      "top": 756,
+      "height": 1772,
+      "words": 38,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Помогаем детям",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 37,
+      "textLeft": 16,
+      "textRight": 37,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.trust",
+      "tag": "section",
+      "top": 2529,
+      "height": 844,
+      "words": 6,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Интересно пробовать.",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 26,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.areas-heading",
+      "tag": "div",
+      "top": 3373,
+      "height": 349,
+      "words": 4,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Что интересно",
+       "size": 55,
+       "tag": "h2"
+      },
+      "left": 65,
+      "right": 65,
+      "textLeft": 65,
+      "textRight": 65,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.area-cards",
+      "tag": "div",
+      "top": 3706,
+      "height": 1953,
+      "words": 56,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Спорт",
+       "size": 46,
+       "tag": "h3"
+      },
+      "left": 46,
+      "right": 46,
+      "textLeft": 55,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#directions.directions",
+      "tag": "section",
+      "top": 5729,
+      "height": 4544,
+      "words": 242,
+      "media": 7,
+      "middle": 0,
+      "heading": {
+       "text": "Академия футбола",
+       "size": 32,
+       "tag": "h3"
+      },
+      "left": 43,
+      "right": 35,
+      "textLeft": 43,
+      "textRight": 47,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section#family.family",
+      "tag": "section",
+      "top": 10273,
+      "height": 886,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Мы семья",
+       "size": 70,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 59,
+      "textLeft": 16,
+      "textRight": 59,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.match",
+      "tag": "section",
+      "top": 11160,
+      "height": 844,
+      "words": 6,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Подберём",
+       "size": 57,
+       "tag": "h2"
+      },
+      "left": 70,
+      "right": 70,
+      "textLeft": 70,
+      "textRight": 70,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#request.mood",
+      "tag": "section",
+      "top": 12004,
+      "height": 688,
+      "words": 17,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "С чего начнём",
+       "size": 61,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 4,
+      "textLeft": 16,
+      "textRight": 4,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 12692,
+      "height": 778,
+      "words": 26,
+      "media": 1,
+      "middle": 1587,
+      "heading": {
+       "text": "Надеждик",
+       "size": 86,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 0,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИКоМ.",
+      "size": 78,
+      "top": 197,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [
+     {
+      "text": "Помогаем детям",
+      "side": "left",
+      "px": 16
+     },
+     {
+      "text": "открывать мир",
+      "side": "left",
+      "px": 16
+     },
+     {
+      "text": "«Надеждик» объединяет спорт, обучение и творчество",
+      "side": "left",
+      "px": 16
+     },
+     {
+      "text": "Занятия, в которых есть место физическому, познава",
+      "side": "left",
+      "px": 16
+     },
+     {
+      "text": "Интересно пробовать.",
+      "side": "right",
+      "px": 0
+     },
+     {
+      "text": "Здорово получаться.",
+      "side": "right",
+      "px": 0
+     },
+     {
+      "text": "Общаемся и поддерживаем дружеские связи с воспитан",
+      "side": "left",
+      "px": 16
+     },
+     {
+      "text": "Социальный проект «Надеждика».",
+      "side": "left",
+      "px": 16
+     }
+    ],
+    "edges": [
+     {
+      "x": 16,
+      "n": 8
+     },
+     {
+      "x": 43,
+      "n": 6
+     },
+     {
+      "x": 280,
+      "n": 1
+     },
+     {
+      "x": 302,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 16,
+    "bodySize": 14,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 1440,
+   "message": "3 headline(s) wrap past two lines at 1440px: \"ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИКоМ.\" → 3 lines (6 words, 227.4px); \"Интересно пробовать. Здорово получаться.\" → 4 lines (4 words, 49px); \"ПОДБЕРЁМ ЗАНЯТИЕ ВАШЕМУ РЕБЁНКУ\" → 3 lines (4 words, 148.3px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 36px or less."
+  },
+  {
+   "level": "WARN",
+   "id": "mixed-font-headline",
+   "width": 1440,
+   "message": "1 headline(s) switch typeface or to italic mid-line (the \"one italic serif word\" move).",
+   "fix": "Set the whole headline in one face. Emphasis comes from the words.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "1 eyebrow/kicker label(s) above headings: \"2–11 лет\" above \"ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИК\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "numbering",
+   "width": 1440,
+   "message": "Decorative index numbers: \"01 / 06\", \"01 / 06\"",
+   "fix": "Remove them. If order truly matters, write it into the words (\"First, …\") or use a real <ol>.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "hairline",
+   "width": 1440,
+   "message": "1 thin rule(s)/divider line(s): div.footer-bottom 1319px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "7 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "icon-cards",
+   "width": 1440,
+   "message": "1 row(s) of identical cards each topped with a small icon (3 cards).",
+   "fix": "Replace with one composed section from the direction: a narrative split, a list set in large type, or real imagery per item.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "contrast",
+   "width": 1440,
+   "message": "Low-contrast text: \"О нас\" 3:1 needs 4.5:1; \"О нас\" 3:1 needs 4.5:1; \"Занятия\" 3:1 needs 4.5:1; \"Занятия\" 3:1 needs 4.5:1",
+   "fix": "Darken or lighten the text colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "30 different font sizes (10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 22, 33, 36, 43, 48, 49, 53, 58, 68, 72, 94, 115, 144, 148, 169, 185, 202, 203, 223, 227).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "17 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "covered-text",
+   "width": 1440,
+   "message": "Large text lies under another element at some scroll position: \"ДеТЯМ ИНТЕРЕСНО\" (screen 1, 100% hidden); \"РаСТИ.\" (screen 1, 100% hidden); \"ВМЕСТЕ С НАДЕЖДИКоМ.\" (screen 1, 100% hidden); \"Спорт\" (screen 5, 38% hidden)",
+   "fix": "Nothing may sit on top of a headline or statement. Move the picture, shorten the pinned run, or raise the text above it (z-index) and give it a ground.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "pinned-over-picture",
+   "width": 1440,
+   "message": "Pinned large text slides across pictures while the page scrolls: \"У каждого — свой интерес\" (screen 6, 100% over a picture); \"АКАДЕМИЯ ФУТБОЛА\" (screen 7, 100% over a picture); \"НАДЕЖДИК ЮНИОР\" (screen 7, 100% over a picture)",
+   "fix": "Jurors read a pinned title crossing drawings or photographs as a collision. Keep the pictures in the column the title does not occupy, or unpin it.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "3 headline(s) wrap past two lines at 768px: \"ДеТЯМ ИНТЕРЕСНО РаСТИ. ВМЕСТЕ С НАДЕЖДИКоМ.\" → 3 lines (6 words, 124.7px); \"Интересно пробовать. Здорово получаться.\" → 4 lines (4 words, 28.4px); \"ПОДБЕРЁМ ЗАНЯТИЕ ВАШЕМУ РЕБЁНКУ\" → 3 lines (4 words, 79.1px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "edge-text",
+   "width": 768,
+   "message": "1 text block(s) sit within 16px of the screen edge: \"Танцы\" (0px from the left)",
+   "fix": "Keep text inside the page margin (16–32px or more). Only display type deliberately bled past the edge may touch it.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "3 headline(s) wrap past two lines at 390px: \"ЧТО ИНТЕРЕСНО ВАШЕМУ РЕБЁНКУ?\" → 4 lines (4 words, 54.6px); \"ПОДБЕРЁМ ЗАНЯТИЕ ВАШЕМУ РЕБЁНКУ\" → 4 lines (4 words, 56.6px); \"С ЧЕГО НАЧНЁМ ЗНАКОМСТВО?\" → 3 lines (4 words, 61.2px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "body-size",
+   "width": 390,
+   "message": "Body text is 14px (the size most of the running text is set in).",
+   "fix": "Body copy 16–20px. Map small sizes from blueprints onto your body step."
+  },
+  {
+   "level": "WARN",
+   "id": "grey-body",
+   "width": 390,
+   "message": "The running text is a soft grey on its ground (3.2:1).",
+   "fix": "Set body copy in the full ink (7:1 or more). Keep the muted ink for secondary notes; pages read thin and unfinished when everything is grey."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 390,
+   "message": "The margins differ: 16px on the left, 3px on the right, at 390px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/home/dima/alex/crency_nad/.taste-skill/inspect/desktop-fold.jpg",
+   "pages": [
+    "/home/dima/alex/crency_nad/.taste-skill/inspect/desktop-page-01.jpg",
+    "/home/dima/alex/crency_nad/.taste-skill/inspect/desktop-page-02.jpg",
+    "/home/dima/alex/crency_nad/.taste-skill/inspect/desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/home/dima/alex/crency_nad/.taste-skill/inspect/tablet-fold.jpg",
+   "pages": [
+    "/home/dima/alex/crency_nad/.taste-skill/inspect/tablet-page-01.jpg",
+    "/home/dima/alex/crency_nad/.taste-skill/inspect/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/home/dima/alex/crency_nad/.taste-skill/inspect/mobile-fold.jpg",
+   "pages": [
+    "/home/dima/alex/crency_nad/.taste-skill/inspect/mobile-page-01.jpg",
+    "/home/dima/alex/crency_nad/.taste-skill/inspect/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
